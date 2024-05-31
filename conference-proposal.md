@@ -1,10 +1,10 @@
 # Proposal for Accessibility Conference: Leveraging AI to Enhance Accessible Design
 Conference: [UX-India](https://2024.ux-india.org/) (Sep 17-21)
 
-## Title: Revolutionizing Accessibility in Design: Harnessing AI for Inclusive Digital Experiences
+## Title: Harnessing AI for Inclusive Digital Experiences
 
 ### Introduction
-In the rapidly evolving digital landscape, ensuring accessibility from the outset is crucial for creating inclusive and user-centered products. As a thought leader in UX and accessibility, I propose a comprehensive discussion on how AI, specifically ChatGPT, can transform each stage of the design process. This session will empower designers and developers to create accessible, innovative, and user-friendly digital experiences while critically evaluating the potential pitfalls and ensuring that people with disabilities are not excluded from the design process.
+In the rapidly evolving digital landscape, ensuring accessibility from the outset is crucial for creating inclusive and user-centered products. As a practicioner in UX and accessibility, I propose a comprehensive discussion on how AI, specifically ChatGPT, can transform each stage of the design process. This session will empower designers and developers to create accessible, innovative, and user-friendly digital experiences while critically evaluating the potential pitfalls and ensuring that people with disabilities are not excluded from the design process.
 
 ### Session Outline
 
