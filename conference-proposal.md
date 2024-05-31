@@ -1,4 +1,7 @@
-# Proposal for Accessibility Conference: Leveraging AI to Enhance Accessible Design
+Proposal for Accessibility Conference: 
+
+# Leveraging AI to Enhance Accessible Design
+
 Conference: [UX-India](https://2024.ux-india.org/) (Sep 17-21)
 
 ## Title: Harnessing AI for Inclusive Digital Experiences
