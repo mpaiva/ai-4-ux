@@ -62,5 +62,4 @@ Join us in this transformative session to explore the future of accessible desig
 
 ---
 
-WORK IN PROGRESS
-Marcelo Paiva
+(WORK IN PROGRESS - Marcelo Paiva)
